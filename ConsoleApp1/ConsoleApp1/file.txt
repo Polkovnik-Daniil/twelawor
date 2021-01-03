@@ -1,0 +1,33 @@
+---------------------------------------
+Full Name: 	
+		ConsoleApp1.Reflection
+---------------------------------------
+Constructors: 
+		Void .ctor(Char[])
+		Void .ctor(Char[], Int32, Int32)
+		Void .ctor(Char*)
+		Void .ctor(Char*, Int32, Int32)
+		Void .ctor(SByte*)
+		Void .ctor(SByte*, Int32, Int32)
+		Void .ctor(SByte*, Int32, Int32, System.Text.Encoding)
+		Void .ctor(Char, Int32)
+		Void .ctor(System.ReadOnlySpan`1[System.Char])
+---------------------------------------
+Methods: 
+		Void Show_that_it_ready(System.String)
+---------------------------------------
+Properties: 
+		System.String str
+		Int32 integ
+---------------------------------------
+Fields: 
+		Int32 a
+		System.String a_
+---------------------------------------
+Interfaces: 
+---------------------------------------
+Parameters Methods: 
+	Methods:	Void Show_that_it_ready(System.String)
+	 Parameters:	 System.String str
+			 
+---------------------------------------
